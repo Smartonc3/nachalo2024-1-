@@ -1,0 +1,15 @@
+C:\Users\Martin\Desktop\Програмирования\C#\C#_Hello\bin\Debug\net7.0\C#_Hello.exe
+C:\Users\Martin\Desktop\Програмирования\C#\C#_Hello\bin\Debug\net7.0\C#_Hello.deps.json
+C:\Users\Martin\Desktop\Програмирования\C#\C#_Hello\bin\Debug\net7.0\C#_Hello.runtimeconfig.json
+C:\Users\Martin\Desktop\Програмирования\C#\C#_Hello\bin\Debug\net7.0\C#_Hello.dll
+C:\Users\Martin\Desktop\Програмирования\C#\C#_Hello\bin\Debug\net7.0\C#_Hello.pdb
+C:\Users\Martin\Desktop\Програмирования\C#\C#_Hello\obj\Debug\net7.0\C#_Hello.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\Програмирования\C#\C#_Hello\obj\Debug\net7.0\C#_Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\Програмирования\C#\C#_Hello\obj\Debug\net7.0\C#_Hello.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\Програмирования\C#\C#_Hello\obj\Debug\net7.0\C#_Hello.AssemblyInfo.cs
+C:\Users\Martin\Desktop\Програмирования\C#\C#_Hello\obj\Debug\net7.0\C#_Hello.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Програмирования\C#\C#_Hello\obj\Debug\net7.0\C#_Hello.dll
+C:\Users\Martin\Desktop\Програмирования\C#\C#_Hello\obj\Debug\net7.0\refint\C#_Hello.dll
+C:\Users\Martin\Desktop\Програмирования\C#\C#_Hello\obj\Debug\net7.0\C#_Hello.pdb
+C:\Users\Martin\Desktop\Програмирования\C#\C#_Hello\obj\Debug\net7.0\C#_Hello.genruntimeconfig.cache
+C:\Users\Martin\Desktop\Програмирования\C#\C#_Hello\obj\Debug\net7.0\ref\C#_Hello.dll
